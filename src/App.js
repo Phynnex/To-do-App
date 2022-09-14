@@ -11,7 +11,7 @@ function App() {
     <>
       <Routes>
         <Route path="/" element={<Login />} />
-        <Route path="todo-app" element={<Home />} />
+        <Route path="/todo-app" element={<Home />} />
       </Routes>
     </>
     
